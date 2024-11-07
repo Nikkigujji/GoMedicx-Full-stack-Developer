@@ -1,1 +1,1 @@
-# GoMedicx-Full-stack-Developer
+# Full-stack-Developer
